@@ -1,3 +1,4 @@
 Test
 One more test
+New line in the middle
 Added from new develop line
