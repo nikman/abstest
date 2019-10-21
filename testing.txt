@@ -1,4 +1,5 @@
 Test
 One more test
+// K. Gnezdilov. My new line 
 New line in the middle
 Added from new develop line
