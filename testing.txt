@@ -4,3 +4,4 @@ One more test
 New line in the middle
 Added from new develop line
 Версия_1.0
+Hello world!
